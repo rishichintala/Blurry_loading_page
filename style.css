@@ -26,4 +26,16 @@ body {
     margin-left: 100px;
     color: rgb(0, 0, 0);
 }
+footer{
+    margin-top:550px ;
+    align-items: center;
+    justify-content: center;
+}
+footer p{
+    text-align: center;
+    margin-right: 200px;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: chocolate;
+}
 
